@@ -74,7 +74,10 @@ export class Router {
         // Add active class to current nav item
         const activeNavItem = document.querySelector(`[data-route="${route}"]`);
         if (activeNavItem) {
-            activeNavItem.closest('.nav-item').classList.add('active');
+            const navItemParent = activeNavItem.closest('.nav-item');
+            if (navItemParent) {
+                navItemParent.classList.add('active');
+            }
         }
     }
 
