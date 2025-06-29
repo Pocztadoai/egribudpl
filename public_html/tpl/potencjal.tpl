@@ -1,0 +1,3 @@
+<h1>Potencjał firmy</h1>
+<img src="./images/bar.png" alt="" />
+<p>Nasza kadra inżynierska to zespół wysoko wykwalifikowanych, doświadczonych pracowników gwarantujących realizacją życzeń najbardziej wymagających klientów. Posiadamy długoletnie doświadczenie przy projektowaniu i uruchamianiu instalacji technologicznych w przemyśle spożywczym, ochronie środowiska itp. Dzięki wielu zrealizowanym projektom posiadamy niezbędna wiedzą do tworzenia własnych algorytmów sterowania dla złożonych procesów technologicznych.</p>
